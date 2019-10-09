@@ -4,10 +4,12 @@ It was built only as a prototype since my main goal with this was learning how t
 
 _Files:_<br>
 electrical_schematic.pdf --> project's electrical schematic with all components and connections.<br>
-main.c --> source code as a c language file.<br>
+main.c --> source code as a c language file;<br>
+schematics.fzz --> source file for the electrical schematic from the software Fritzing.
 
-_Directory:_
-main --> contains the main.ino file which can be inserted into an Arduino board.
+_Directories:_
+main --> contains the main.ino file which can be inserted into an Arduino board;<br>
+photos_functional_prototype --> contains 3 photos of the functional prototype.
 
 _Materials:_
 - 1 Arduino Uno (Rev3);
