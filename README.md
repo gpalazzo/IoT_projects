@@ -2,14 +2,14 @@
 
 It was built only as a prototype since my main goal with this was learning how to use Arduino in a house automation project.
 
-Files:
-electrical_schematic.pdf --> project's electrical schematic with all components and connections.
-main.c --> source code as a c language file.
+_Files:_<br>
+electrical_schematic.pdf --> project's electrical schematic with all components and connections.<br>
+main.c --> source code as a c language file.<br>
 
-Directory:
+_Directory:_
 main --> contains the main.ino file which can be inserted into an Arduino board.
 
-Materials:
+_Materials:_
 - 1 Arduino Uno (Rev3);
 - 1 Breadboard;
 - 1 LCD 16x2;
