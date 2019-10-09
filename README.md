@@ -7,7 +7,7 @@ electrical_schematic.pdf --> project's electrical schematic with all components 
 main.c --> source code as a c language file;<br>
 schematics.fzz --> source file for the electrical schematic from the software Fritzing.
 
-_Directories:_
+_Directories:_<br>
 main --> contains the main.ino file which can be inserted into an Arduino board;<br>
 photos_functional_prototype --> contains 3 photos of the functional prototype.
 
